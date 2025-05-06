@@ -9,6 +9,7 @@ export default function Home () {
       <div>
         <h1>Home</h1>
         <p>Home page</p>
+        <div>salom</div>
       </div>
     </>
   )
